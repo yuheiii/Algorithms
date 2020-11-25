@@ -87,7 +87,7 @@ $ java -cp classes com.williamfiset.algorithms.search.BinarySearch
 - [:movie_camera:](https://www.youtube.com/watch?v=JfSdGQdAzq8) [Binary Search Tree](https://github.com/williamfiset/algorithms/tree/master/src/main/java/com/williamfiset/algorithms/datastructures/binarysearchtree/BinarySearchTree.java)
 - [Splay Tree](https://github.com/williamfiset/algorithms/tree/master/src/main/java/com/williamfiset/algorithms/datastructures/binarysearchtree/SplayTree.java)
 - [:movie_camera:](https://www.youtube.com/watch?v=PEnFFiQe1pM) [Dynamic Array](https://github.com/williamfiset/algorithms/tree/master/src/main/java/com/williamfiset/algorithms/datastructures/dynamicarray)
-  - [Dynamic array (integer only, fast)](https://github.com/williamfiset/algorithms/tree/master/src/main/java/com/williamfiset/algorithms/datastructures/dynamicarray/IntArray.java)
+  - [Dynamic array (integer only, fast) ✅](https://github.com/williamfiset/algorithms/tree/master/src/main/java/com/williamfiset/algorithms/datastructures/dynamicarray/IntArray.java)
   - [Dynamic array (generic)](https://github.com/williamfiset/algorithms/tree/master/src/main/java/com/williamfiset/algorithms/datastructures/dynamicarray/DynamicArray.java)
 - [:movie_camera:](https://www.youtube.com/watch?v=RgITNht_f4Q) [Fenwick Tree](https://github.com/williamfiset/algorithms/tree/master/src/main/java/com/williamfiset/algorithms/datastructures/fenwicktree)
   - [Fenwick Tree (range query, point updates)](https://github.com/williamfiset/algorithms/tree/master/src/main/java/com/williamfiset/algorithms/datastructures/fenwicktree/FenwickTreeRangeQueryPointUpdate.java)
